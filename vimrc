@@ -100,6 +100,8 @@ Bundle 'Yggdroot/indentLine'
 "color scheme
 Plugin 'Solarized'
 
+"js code"
+Plugin 'ZenCoding.vim'
 
 
 
